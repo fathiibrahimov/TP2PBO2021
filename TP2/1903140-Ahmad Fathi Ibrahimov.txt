@@ -1,0 +1,9 @@
+/*Saya Ahmad Fathi Ibrahimov mengerjakan evaluasi TP2 dalam mata kuliah
+Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+Kesulitan : mencari tempat download connector mysql, mengatur skala foto(akhirnya saya atur di photoshop saja supaya mudah)
+
+Hal baru yang dipelajari: tempat untuk mendownload connector mysql, cara mengosongkan isi tabel
+
+Fitur yang sudah dikerjakan: hanya fitur dasar yang diperintahkan saja
